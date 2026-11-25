@@ -1,60 +1,50 @@
-# privacy-policy-arcanemtglife
-Política de Privacidad de Arcane MTG Life
-Última actualización: 24 de noviembre de 2026
+# Privacy Policy for Arcane MTG Life
 
-Esta Política de Privacidad describe cómo Acrobat Cat Games (en adelante, "nosotros" o "el desarrollador") trata la información cuando utilizas la aplicación móvil Arcane MTG Life (en adelante, "la Aplicación").
+**Last updated:** November 24, 2026
 
-1. Información que se recopila y se trata
-Arcane MTG Life está diseñada para funcionar sin requerir que crees una cuenta o ingreses datos personales sensibles directamente. Sin embargo, al utilizar la Aplicación, ciertos servicios de terceros integrados en ella pueden recopilar o procesar automáticamente información técnica y de uso, tales como:
+This Privacy Policy describes how **Acrobat Cat Games** ("we," "our," or "the developer") handles information when you use the **Arcane MTG Life** mobile application (the "App").
 
-Identificadores de dispositivo y publicidad: por ejemplo, el identificador de publicidad de Android (AAID) u otros identificadores técnicos del dispositivo.
+## 1. Information We Collect and Process
+Arcane MTG Life is designed to operate without requiring you to create an account or directly enter sensitive personal data. However, when you use the App, integrated third-party services may automatically collect or process technical and usage information, including:
 
-Datos de red y dispositivo: dirección IP aproximada, tipo de dispositivo, sistema operativo, idioma, resolución de pantalla y versión de la Aplicación.
+* **Device and advertising identifiers:** For example, the Android Advertising ID (AAID) or other technical device identifiers.
+* **Network and device data:** Approximate IP address, device type, operating system, language, screen resolution, and App version.
+* **Ad interaction and performance data:** Events related to ad loading, impressions, or interactions, as well as crash or diagnostic logs if a stability or analytics tool is used.
 
-Datos de interacción con anuncios y rendimiento: eventos relacionados con la carga, visualización o interacción con anuncios, así como registros de fallos o diagnóstico si se usa una herramienta de estabilidad o analítica.
+## 2. Third-Party Monetization and Advertising
+The App may display advertisements (such as banner, interstitial, or rewarded ads) through third-party ad networks, including **Google AdMob** or other integrated advertising providers.
 
-2. Monetización y publicidad de terceros
-La Aplicación puede mostrar anuncios (como banners, intersticiales o anuncios recompensados) a través de redes publicitarias de terceros, como Google AdMob u otras redes publicitarias integradas.
+These providers may use cookies, SDKs, or device identifiers to serve ads, measure performance, prevent fraud, and—where applicable—personalize or frequency-cap ads based on device settings or user consent. You can review how Google handles data in its official privacy and advertising partner policies.
 
-Estos proveedores pueden utilizar cookies, SDK o identificadores de dispositivo para mostrar anuncios, medir su rendimiento, prevenir fraudes y, cuando corresponda, personalizar o limitar la frecuencia de los anuncios según la configuración del dispositivo o el consentimiento del usuario.
+## 3. How Information Is Used
+Collected or processed information is used to:
 
-Puedes consultar cómo trata los datos Google en sus políticas oficiales de privacidad y publicidad para socios.
+* Operate, maintain, and improve the functionality of Arcane MTG Life.
+* Serve and measure ads to support the maintenance and development of the App.
+* Detect and fix technical errors or performance issues.
+* Comply with legal obligations or respond to lawful requests.
 
-3. Finalidad del tratamiento de datos
-La información recopilada o procesada se utiliza para:
+## 4. Data Sharing and International Transfers
+We do not directly sell user databases or request sensitive personal data on our own. Technical data or identifiers associated with ads or integrated services are handled by the respective service providers and ad networks under their own privacy policies, which may involve processing or storing data on servers outside your country of residence.
 
-Operar, mantener y mejorar el funcionamiento de Arcane MTG Life.
+## 5. Children's Privacy
+Arcane MTG Life is not directed specifically to children under 13 years of age, and we do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe a child has provided personal information or need assistance regarding use of the App, please contact us via email so we can take appropriate action.
 
-Servir y medir anuncios para financiar el mantenimiento y desarrollo de la Aplicación.
+## 6. Your Privacy Choices and Rights
+Depending on your location (for example, under regulations such as GDPR in the European Union or CCPA/CalOPPA in California) and your device, you can:
 
-Detectar y corregir errores técnicos o problemas de rendimiento.
+* Reset or limit your Advertising ID in your Android device's privacy settings (*Settings > Google > Ads*, or the equivalent path on your Android version).
+* Manage ad consent preferences when prompted in applicable regions.
+* Request access to, correction of, or deletion of any associated data we have received directly through our contact email.
 
-Cumplir con obligaciones legales o responder a solicitudes legítimas.
+## 7. Data Retention and Security
+We apply reasonable technical and organizational security measures appropriate to the size and nature of Arcane MTG Life to protect information against unauthorized access or alteration. Data processed by third-party services is retained according to those providers' retention periods and policies.
 
-4. Compartición de datos y transferencias internacionales
-No vendemos directamente bases de datos de usuarios ni solicitamos datos sensibles por nuestra cuenta. Los datos técnicos o identificadores asociados a anuncios o servicios integrados son tratados por los respectivos proveedores de servicios y redes publicitarias conforme a sus propias políticas de privacidad, lo que puede implicar el procesamiento o almacenamiento de datos en servidores ubicados fuera de tu país de residencia.
+## 8. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in Arcane MTG Life, integrated services, or applicable laws. We will post the updated version at the same URL and update the "Last updated" date.
 
-5. Privacidad de menores
-Arcane MTG Life no está dirigida específicamente a niños menores de 13 años y no recopilamos intencionalmente información personal de menores de 13 años. Si eres padre, madre o tutor y consideras que un menor ha proporcionado información personal o necesitas asistencia relacionada con el uso de la Aplicación, contáctanos a través de nuestro correo electrónico para tomar las medidas correspondientes. (Si en la ficha de la tienda declaras que la app es apta o accesible para público infantil o menor de edad, ajusta esta sección para que coincida exactamente con tu configuración de audiencia y con los requisitos de las tiendas y normativas aplicables).
+## 9. Contact
+If you have questions or requests regarding this Privacy Policy or privacy in Arcane MTG Life, contact us at:
 
-6. Tus opciones y derechos de privacidad
-Dependiendo de tu ubicación (por ejemplo, bajo normativas como el RGPD en la Unión Europea o CCPA/CalOPPA en California) y de tu dispositivo, puedes:
-
-Restablecer o limitar el ID de publicidad desde los ajustes de privacidad de tu dispositivo Android (Ajustes > Google > Anuncios o la ruta equivalente de tu versión de Android).
-
-Gestionar preferencias de consentimiento de anuncios cuando se te solicite en regiones donde aplique.
-
-Solicitar información, corrección o eliminación de cualquier dato asociado que hayamos recibido directamente a través de nuestro correo de contacto.
-
-7. Conservación y seguridad
-Aplicamos medidas razonables de seguridad técnicas y organizativas acordes con el tamaño y naturaleza de Arcane MTG Life para proteger la información frente a accesos no autorizados o alteraciones. Los datos tratados por servicios de terceros se conservan según los plazos y políticas de dichos proveedores.
-
-8. Cambios en esta Política de Privacidad
-Podemos actualizar esta Política de Privacidad ocasionalmente para reflejar cambios en Arcane MTG Life, en los servicios integrados o en la normativa. Publicaremos la versión actualizada en la misma URL indicando la nueva fecha de "Última actualización".
-
-9. Contacto
-Si tienes preguntas o solicitudes relacionadas con esta Política de Privacidad o con la privacidad en Arcane MTG Life, puedes escribirnos a:
-
-Correo de contacto: acrobatcatgames@gmail.com
-
-Desarrollador: Acrobat Cat Games
+* **Email:** acrobatcatgames@gmail.com
+* **Developer:** Acrobat Cat Games
